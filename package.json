@@ -1,0 +1,10 @@
+{
+  "name": "local-bible-webapp",
+  "description": "Schlachter 1951 bible as a webapp",
+  "version": "0.0.1-unstable",
+  "private": "true",
+  "dependencies": {
+    "express": "3.4.7",
+    "jade": "1.0.0"
+  }
+}
