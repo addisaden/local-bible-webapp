@@ -1,0 +1,12 @@
+home
+  -> every book
+    ? search in the book
+      # results with location and vers
+    -> every chapter in the book
+      -> previous chapter
+      -> next chapter
+      -> chapter overview
+      # verses of chapter
+  ? search in the whole bible
+    # results with location and vers
+  -> statistic section
